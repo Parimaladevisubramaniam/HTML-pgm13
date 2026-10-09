@@ -5,7 +5,7 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 
-HTML_FILE = ROOT / "c07x_sampson.html"
+HTML_FILE = ROOT / "index.html"
 CSS_FILE = ROOT / "c07x_speaker.css"
 
 
